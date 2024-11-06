@@ -1,2 +1,3 @@
-# MyExamples
- MyExamples
+# teaching-samples
+
+Here are teaching samples 
